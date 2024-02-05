@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/583275/screenshots/16526735/media/bde4500db45541b73cfbdab9d2a2d6b9.gif">
 
 - 💬 Ask me about **JAVA**
-
+- 🌱 I'm currently learning **Internet Technology**
 - 📫 How to reach me **kusalgunasekara2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
