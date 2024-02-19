@@ -5,12 +5,12 @@
 <p align="center"><img align="center" alt="Coding" width="1280" lenght="400" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></p>
 <br>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40"/> About
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40"/>  About
 <div>
 <p align="center"> An ambitious undergraduate at IJSE, 🎯 is on a compelling journey of learning and growth within the software engineering landscape currently exploring... Aspiring to become a versatile and skillful software engineer.</p>
 </div>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="50"/> Skills:
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="50"/> Skills
 <div align="center">
    <P align="center">IDE</P>
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"width=50/>
@@ -36,7 +36,7 @@
         <img src="https://skillicons.dev/icons?i=discord,stackoverflow"/>
 </div><br><br>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif" width="50"/> Let's Connect:
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif" width="50"/> Let's Connect
 <div align="center">
     <p>Always eager to collaborate on exciting projects, discuss new ideas, or simply chat about tech trends,Passionate about building a supportive community of like-minded individuals who share a love             for problem-solving and technology.Let's connect. <br><br>
 <a href="https://codepen.io/solution-kjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="solution-kjs" height="30" width="40" /></a> 
@@ -46,7 +46,7 @@
 </div>
 
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif" width="20"/> Account Status:
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif" width="20"/> Account Status
 <img src="https://komarev.com/ghpvc/?username=KusalDemo&label=Profile%20views&color=0e75b6&style=flat" alt="KusalJayaShri"/>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kusaldemo&show_icons=true&locale=en" alt="kusaldemo" />
