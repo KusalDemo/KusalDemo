@@ -2,28 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There...;I'm+Kusal+Gunasekara;+Full+Stack+Developer;"/>
 </h1>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif"></p>
+<p align="center"><img align="center" alt="Coding" width="1280" lenght="400" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></p>
 <br><br>
 
-## 🐼️ What I'm up to:
-
-### 🌐 Web Development:
-- Currently honing my skills in HTML, CSS, and JavaScript to craft captivating user experiences and robust web applications.
-- Exploring both front-end and back-end development to build seamless and efficient solutions.
-- Eager to contribute to open-source projects and collaborate with fellow developers to innovate in the web development space.
-
-### 🤖 Learning:
-- Passionate about leveraging data to solve real-world problems and unearth valuable insights.
-- Excited to explore the intersection of AI and various domains to drive innovation and positive change.
-
-### 💡 Problem-Solving:
-- Thriving on challenges, I enjoy dissecting complex problems and devising elegant solutions.
-- Actively seeking opportunities to tackle new challenges and push the boundaries of my problem-solving skills.
-- Committed to continuous learning and growth, always on the lookout for novel approaches to problem-solving.
-<br><br>
+## 🐼️ About:
+<p align="center">💻 An ambitious undergraduate at IJSE, 🎯 is on a compelling journey of learning and growth within the software engineering landscape currently exploring Java,JavaScript,Python,C …. Aspiring to become a versatile and skillful software engineer.</p>
 
 ## 💻 Skills:
-<div align="left">
+<div align="center">
+   
+
+
 
 | Title           | Icon                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
@@ -32,7 +21,7 @@
 | App Development | <img src="https://skillicons.dev/icons?i=java,py,c"/>                                                     |
 | Front End       | <img src="https://skillicons.dev/icons?i=html,css,js"/>                                                   |
 | Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql"/>                                    |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow"/>             |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,maven,discord,stackoverflow"/>             |
 
 </div><br><br>
 
