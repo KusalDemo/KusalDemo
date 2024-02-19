@@ -28,11 +28,11 @@
 | Title           | Icon                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | IDE             | <img src="https://skillicons.dev/icons?i=idea"/>                                                          |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps,javafx"/>                                         |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,javafx"/>                                         |
 | App Development | <img src="https://skillicons.dev/icons?i=java,py,c"/>                                                     |
 | Front End       | <img src="https://skillicons.dev/icons?i=html,css,js"/>                                                   |
 | Back End        | <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql"/>                                    |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow,ai"/>             |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,discord,stackoverflow"/>             |
 
 </div><br><br>
 
