@@ -48,10 +48,9 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif" width="20"/> Account Status
 <img src="https://komarev.com/ghpvc/?username=KusalDemo&label=Profile%20views&color=0e75b6&style=flat" alt="KusalJayaShri"/>
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kusaldemo&show_icons=true&locale=en" alt="kusaldemo" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusaldemo&" alt="kusaldemo" />
-</div><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusaldemo&show_icons=true&locale=en" alt="kusaldemo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusaldemo&" alt="kusaldemo" />
+<br><br>
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
 <p align="center">Let's collaborate, share ideas, and inspire each other to reach new heights!</p>
 <p align="center">@kusalJayaShri/2024/🇱🇰️</p>
