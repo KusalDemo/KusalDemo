@@ -1,57 +1,79 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There...;I'm+Kusal+Gunasekara;+Full+Stack+Developer;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There...;I'm+Kusal+Gunasekara;+Full+Stack+Developer;"/><br>
+    <img src="https://komarev.com/ghpvc/?username=KusalDemo&label=Profile%20views&color=0e75b6&style=flat" alt="KusalJayaShri"/>
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Code%20Speaks%20Louder%20Than%20Words-000000?style=for-the-badge&logo=Terminal&logoColor=white" alt="Code Speaks Louder Than Words"/>
+  <img src="https://img.shields.io/badge/-KusalDemo-444444?style=for-the-badge&logo=GitHub&logoColor=white" alt="KusalDemo"/>
+  <img src="https://img.shields.io/badge/-Cut%20the%20Crap,%20Ship%20the%20Code-222222?style=for-the-badge&logo=Code&logoColor=white" alt="Cut the Crap, Ship the Code"/>
+  <img src="https://img.shields.io/badge/-Built%20to%20Solve,%20Not%20to%20Showcase-555555?style=for-the-badge&logo=Tools&logoColor=white" alt="Built to Solve, Not to Showcase"/>
+</p>
 
 <p align="center"><img align="center" alt="Coding" width="1280" lenght="400" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></p>
 <br>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40"/>  About
-<div>
-<p align="center"> An ambitious undergraduate at IJSE, 🎯 is on a compelling journey of learning and growth within the software engineering landscape currently exploring... Aspiring to become a versatile and skillful software engineer.</p>
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40"/> 
+
+```
+/**
+ * AboutMe.java
+ * A glimpse into my tech journey and passion.
+ */
+
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+public class AboutMe {
+    public static void main(String[] args) {
+        String name = "Kusal Gunasekara";
+        String role = "Software Engineer";
+
+        Map<String, List<String>> techStack = Map.of(
+            "IDE", List.of("IntelliJ IDEA", "VS Code", "WebStorm", "Rider"),
+            "App Development", List.of("Java", "Python", "C#"),
+            "Frontend", List.of("HTML", "CSS", "JavaScript", "React", "Bootstrap", "Tailwind", "jQuery", "Axios"),
+            "Backend", List.of("Hibernate", "MySQL", "Spring", ".NET"),
+            "Tools", List.of("GitHub", "Git", "Firebase", "AWS", "Postman", "Stack Overflow")
+        );
+
+        System.out.println("👋 Hello, I'm " + name + " - " + role + "!");
+        System.out.println("\n🛠️ Tech Stack:");
+
+        techStack.forEach((category, tools) -> {
+            String toolsList = tools.stream().collect(Collectors.joining(", "));
+            System.out.println("- " + category + ": " + toolsList);
+        });
+
+        System.out.println("\n🌟 Always learning, exploring, and building cool stuff!");
+    }
+}
+
+/**
+ * 📌 Find me here:
+ * - GitHub: github.com/KusalDemo
+ * - LinkedIn: http://www.linkedin.com/in/kusal-gunasekara-337507234
+ */
+
+```
+<div align="center">
+    <p>
+  <img src="https://skillicons.dev/icons?i=idea,rider,vscode,figma,java,py,cpp,cs,net,html,css,js,ts,react,nodejs,bootstrap,tailwindcss,jquery,hibernate,regex,mysql,postman,spring,flask,github,git,maven,gradle,discord,stackoverflow,firebase,notion" alt="Tech Stack" />
+</p>
 </div>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="50"/> Skills
-<div align="center">
-   <P align="center">IDE</P>
-        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"width=50/><br>
-    <P align="center">UI Tools</P>
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"width=50/><br>
-    <P align="center">App Development</P>
-        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png"width=50/><br>
-    <P align="center">Others</P>
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"width=50/>
-        <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"width=50/>
-        <img src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"width=50/>
-        <img src="https://skillicons.dev/icons?i=discord,stackoverflow"/>
-</div><br><br>
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif" width="50"/> Let's Connect
 <div align="center">
-    <p>Always eager to collaborate on exciting projects, discuss new ideas, or simply chat about tech trends,Passionate about building a supportive community of like-minded individuals who share a love             for problem-solving and technology.Let's connect. <br><br>
-<a href="https://codepen.io/solution-kjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="solution-kjs" height="30" width="40" /></a> 
+    <p> Open to working on challenging projects, sharing ideas, and contributing to the latest advancements in software development. Let’s connect and create impactful solutions together!<br><br>
 <a href="http://www.linkedin.com/in/kusal-gunasekara-337507234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal gunasekara" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kusal.gunasekara.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal gunasekara" height="30" width="40" /></a>
 </p><br><br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
+<img src="https://img.shields.io/badge/-Built%20to%20Solve,%20Not%20to%20Showcase-555555?style=for-the-badge&logo=Tools&logoColor=white" alt="Built to Solve, Not to Showcase"/><br>
+<p align="center">Let's collaborate, share ideas, and inspire each other to reach new heights!</p>
+<p align="center">@kusalJayaShri/2025/🇱🇰️</p>
 </div>
 
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif" width="20"/> Account Status
-<img src="https://komarev.com/ghpvc/?username=KusalDemo&label=Profile%20views&color=0e75b6&style=flat" alt="KusalJayaShri"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusaldemo&show_icons=true&locale=en" alt="kusaldemo" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusaldemo&" alt="kusaldemo" />
-<br><br>
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
-<p align="center">Let's collaborate, share ideas, and inspire each other to reach new heights!</p>
-<p align="center">@kusalJayaShri/2024/🇱🇰️</p>
 
