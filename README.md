@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Code%20Speaks%20Louder%20Than%20Words-000000?style=for-the-badge&logo=Terminal&logoColor=white" alt="Code Speaks Louder Than Words"/>
-  <img src="https://img.shields.io/badge/-KusalDemo-444444?style=for-the-badge&logo=GitHub&logoColor=white" alt="KusalDemo"/>
   <img src="https://img.shields.io/badge/-Cut%20the%20Crap,%20Ship%20the%20Code-222222?style=for-the-badge&logo=Code&logoColor=white" alt="Cut the Crap, Ship the Code"/>
   <img src="https://img.shields.io/badge/-Built%20to%20Solve,%20Not%20to%20Showcase-555555?style=for-the-badge&logo=Tools&logoColor=white" alt="Built to Solve, Not to Showcase"/>
 </p>
@@ -70,7 +69,7 @@ public class AboutMe {
 <a href="http://www.linkedin.com/in/kusal-gunasekara-337507234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kusal gunasekara" height="30" width="40" /></a>
 </p><br><br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
-<img src="https://img.shields.io/badge/-Built%20to%20Solve,%20Not%20to%20Showcase-555555?style=for-the-badge&logo=Tools&logoColor=white" alt="Built to Solve, Not to Showcase"/><br>
+<img src="https://img.shields.io/badge/-KusalDemo-444444?style=for-the-badge&logo=GitHub&logoColor=white" alt="KusalDemo"/>
 <p align="center">Let's collaborate, share ideas, and inspire each other to reach new heights!</p>
 <p align="center">@kusalJayaShri/2025/🇱🇰️</p>
 </div>
