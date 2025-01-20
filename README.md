@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There...;I'm+Kusal+Gunasekara;+Full+Stack+Developer;"/><br>
     <img src="https://komarev.com/ghpvc/?username=KusalDemo&label=Profile%20views&color=0e75b6&style=flat" alt="KusalJayaShri"/>
+    <a href="https://kusaldemo.github.io/kusal-gunasekara/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-ebe8e5.svg?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" />
+  </a>
 </h1>
 
 <p align="center">
@@ -58,7 +61,7 @@ public class AboutMe {
 ```
 <div align="center">
     <p>
-  <img src="https://skillicons.dev/icons?i=idea,rider,vscode,figma,java,py,cpp,cs,net,html,css,js,ts,react,nodejs,bootstrap,tailwindcss,jquery,hibernate,regex,mysql,postman,spring,flask,github,git,maven,gradle,discord,stackoverflow,firebase,notion" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,spring,net,nodejs,nestjs,expressjs,html,css,js,ts,react,bootstrap,tailwindcss,figma,jquery,hibernate,regex,mysql,mongodb,postman,flask,prisma,idea,webstorm,rider,vscode,github,git,maven,npm,yarn,vite,gradle,discord,stackoverflow,firebase,notion" alt="Tech Stack" />
 </p>
 </div>
 
